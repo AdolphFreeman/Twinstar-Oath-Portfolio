@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 2c5b29cd9e2919e48a662b03229f0e1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8867294176366477192
+    second: Erim 2_0
+  - first:
+      213: 8394002726080715003
+    second: Erim 2_1
+  - first:
+      213: 7979480838708539008
+    second: Erim 2_2
+  - first:
+      213: -3719481115375643614
+    second: Erim 2_3
+  - first:
+      213: -5454871672441597780
+    second: Erim 2_4
+  - first:
+      213: -1610950568061118522
+    second: Erim 2_5
+  - first:
+      213: 3392498485825430852
+    second: Erim 2_6
+  - first:
+      213: 125887872833151719
+    second: Erim 2_7
+  - first:
+      213: 6568593748866039513
+    second: Erim 2_8
+  - first:
+      213: 5409013701135394136
+    second: Erim 2_9
+  - first:
+      213: 2635357893438168053
+    second: Erim 2_10
+  - first:
+      213: 5909064091160823465
+    second: Erim 2_11
+  - first:
+      213: -242063410570863762
+    second: Erim 2_12
+  - first:
+      213: 7904468688996963244
+    second: Erim 2_13
+  - first:
+      213: -4585016237007815288
+    second: Erim 2_14
+  - first:
+      213: -2848877604640523168
+    second: Erim 2_15
+  - first:
+      213: -403341987535574779
+    second: Erim 2_16
+  - first:
+      213: 6501513685314305935
+    second: Erim 2_17
+  - first:
+      213: 3692302763459400099
+    second: Erim 2_18
+  - first:
+      213: 8919484391932951028
+    second: Erim 2_19
+  - first:
+      213: 984017924307427391
+    second: Erim 2_20
+  - first:
+      213: 1010319452358938132
+    second: Erim 2_21
+  - first:
+      213: 5175038399130962737
+    second: Erim 2_22
+  - first:
+      213: -2841313994388648317
+    second: Erim 2_23
+  - first:
+      213: 7643621915856158469
+    second: Erim 2_24
+  - first:
+      213: 8949795681475998686
+    second: Erim 2_25
+  - first:
+      213: -8628274353896564820
+    second: Erim 2_26
+  - first:
+      213: -5870746208908494911
+    second: Erim 2_27
+  - first:
+      213: -5540012551833875507
+    second: Erim 2_28
+  - first:
+      213: 6840340388624997434
+    second: Erim 2_29
+  - first:
+      213: -1153460491088949114
+    second: Erim 2_30
+  - first:
+      213: -1572813742531710150
+    second: Erim 2_31
+  - first:
+      213: -1699742691195503705
+    second: Erim 2_32
+  - first:
+      213: 4869600241669665023
+    second: Erim 2_33
+  - first:
+      213: -639607401989948969
+    second: Erim 2_34
+  - first:
+      213: -2820063008097233120
+    second: Erim 2_35
+  - first:
+      213: 2530527646776540698
+    second: Erim 2_36
+  - first:
+      213: -4259868456019914510
+    second: Erim 2_37
+  - first:
+      213: -618617712806404310
+    second: Erim 2_38
+  - first:
+      213: -8505431896782552602
+    second: Erim 2_39
+  - first:
+      213: -3218721627962831390
+    second: Erim 2_40
+  - first:
+      213: 7804449607560600745
+    second: Erim 2_41
+  - first:
+      213: 2597358802920744591
+    second: Erim 2_42
+  - first:
+      213: -1509186041421550300
+    second: Erim 2_43
+  - first:
+      213: -7766504818277040234
+    second: Erim 2_44
+  - first:
+      213: -4603077450456381724
+    second: Erim 2_45
+  - first:
+      213: 9119493877786898922
+    second: Erim 2_46
+  - first:
+      213: -5413330089459710557
+    second: Erim 2_47
+  - first:
+      213: -6049826272362972123
+    second: Erim 2_48
+  - first:
+      213: 3928646641696156528
+    second: Erim 2_49
+  - first:
+      213: 5565952148668023968
+    second: Erim 2_50
+  - first:
+      213: 5680944326541276880
+    second: Erim 2_51
+  - first:
+      213: -1065275838074021712
+    second: Erim 2_52
+  - first:
+      213: -4794085489345160204
+    second: Erim 2_53
+  - first:
+      213: -3252934131345345277
+    second: Erim 2_54
+  - first:
+      213: 112412958214271561
+    second: Erim 2_55
+  - first:
+      213: 2220602766522195564
+    second: Erim 2_56
+  - first:
+      213: 9029614478794872149
+    second: Erim 2_57
+  - first:
+      213: -6237330459353553579
+    second: Erim 2_58
+  - first:
+      213: 8697589774330378092
+    second: Erim 2_59
+  - first:
+      213: -2675327718983335782
+    second: Erim 2_60
+  - first:
+      213: 9014073594731175492
+    second: Erim 2_61
+  - first:
+      213: -8115357817566795587
+    second: Erim 2_62
+  - first:
+      213: 2834882627885239842
+    second: Erim 2_63
+  - first:
+      213: -2442060044283323133
+    second: Erim 2_64
+  - first:
+      213: -998218989487378129
+    second: Erim 2_65
+  - first:
+      213: 7554932445996919091
+    second: Erim 2_66
+  - first:
+      213: 3724077394644779910
+    second: Erim 2_67
+  - first:
+      213: -4797469362387957910
+    second: Erim 2_68
+  - first:
+      213: -1525713812583509699
+    second: Erim 2_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

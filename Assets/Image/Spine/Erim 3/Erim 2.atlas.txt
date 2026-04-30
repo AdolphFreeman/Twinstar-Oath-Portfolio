@@ -1,0 +1,229 @@
+Erim 2.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+上衣_Elim r
+bounds:1645,1416,175,148
+offsets:7,0,182,148
+下臂右_Elim r
+bounds:1755,1352,86,132
+offsets:0,0,91,132
+rotate:270
+下臂外 右_Elim r
+bounds:271,1292,79,65
+offsets:0,28,79,93
+下臂外 左_Elim r
+bounds:1417,1714,80,148
+十字架 1_Elim r
+bounds:530,1847,23,35
+offsets:1,2,25,39
+十字架 3_Elim r
+bounds:1960,2015,23,31
+offsets:2,2,26,35
+十字架 4_Elim r
+bounds:2024,1959,22,29
+offsets:1,3,24,35
+十字架 5_Elim r
+bounds:1503,2012,26,34
+offsets:0,1,26,35
+十字架2_Elim r
+bounds:485,1980,26,35
+offsets:2,2,28,39
+右上睫毛_Elim r
+bounds:464,1312,116,67
+右上臂_Elim r
+bounds:1770,1975,71,94
+offsets:1,1,72,95
+rotate:90
+右下睫毛_Elim r
+bounds:309,1847,103,32
+offsets:1,0,106,35
+右眼_Elim r
+bounds:1182,1296,74,79
+offsets:1,5,75,129
+rotate:180
+右眼眶_Elim r
+bounds:1678,1320,106,75
+rotate:180
+右腿_Elim r
+bounds:360,1325,89,102
+offsets:1,1,90,103
+rotate:270
+右蝴蝶結 鞋 _Elim r
+bounds:405,1999,87,47
+offsets:2,0,89,48
+右鞋_Elim r
+bounds:1546,1362,132,74
+rotate:180
+右鬚_Elim r
+bounds:1803,1309,80,128
+offsets:1,0,86,128
+rotate:90
+嘴上_Elim r
+bounds:856,2022,68,24
+offsets:0,1,68,25
+嘴開_Elim r
+bounds:2,2006,60,40
+offsets:0,0,61,40
+尾巴_Elim r
+bounds:995,1384,237,200
+左上臂_Elim r
+bounds:1440,1298,105,104
+rotate:90
+左下睫毛_Elim r
+bounds:186,1321,118,33
+左下臂_Elim r
+bounds:793,1366,84,148
+rotate:270
+左眼_Elim r
+bounds:722,1321,77,79
+左眼眶_Elim r
+bounds:1933,1333,113,75
+offsets:0,1,115,78
+左睫毛_Elim r
+bounds:814,1314,129,71
+左腿_Elim r
+bounds:1248,1343,82,104
+offsets:28,2,110,106
+rotate:90
+左蝴蝶結 鞋_Elim r
+bounds:1345,1317,84,43
+offsets:1,2,88,45
+左鞋_Elim r
+bounds:1353,1362,126,73
+offsets:1,0,127,73
+rotate:180
+左鬚_Elim r
+bounds:945,1295,99,122
+offsets:0,0,346,131
+rotate:270
+帽子底後_Elim r
+bounds:721,1843,737,203
+帽頂_Elim r
+bounds:490,1542,394,348
+rotate:180
+底前_Elim r
+bounds:2,1880,737,166
+offsets:0,85,737,251
+手掌右_Elim r
+bounds:1425,1972,74,79
+rotate:90
+手掌左_Elim r
+bounds:1965,1498,81,83
+offsets:10,0,91,83
+披風前_Elim r
+bounds:286,1400,284,125
+rotate:180
+披風後_Elim r
+bounds:2,1607,325,275
+瀏海中右_Elim r
+bounds:508,1946,100,226
+offsets:8,0,108,226
+rotate:90
+瀏海中左_Elim r
+bounds:1396,1425,151,219
+rotate:270
+瀏海中左右_Elim r
+bounds:888,1485,359,214
+rotate:180
+瀏海右 小_Elim r
+bounds:7,1381,59,97
+瀏海右_Elim r
+bounds:495,1448,143,322
+offsets:0,0,149,326
+rotate:90
+瀏海左 小_Elim r
+bounds:19,1336,52,190
+rotate:90
+瀏海左_Elim r
+bounds:1856,1698,188,348
+offsets:10,0,198,348
+rotate:180
+眉毛右_Elim r
+bounds:368,2014,37,32
+offsets:82,9,123,42
+眉毛左 _Elim r
+bounds:1329,2013,38,33
+offsets:1,2,50,36
+緞帶_Elim r
+bounds:1989,1986,55,60
+offsets:2,2,59,63
+耳內貓耳左_Elim r
+bounds:594,1335,130,107
+rotate:180
+耳前貓耳左_Elim r
+bounds:713,1395,183,150
+耳後貓耳左_Elim r
+bounds:1248,1427,203,170
+rotate:270
+蝴蝶結_Elim r
+bounds:1531,1291,86,71
+offsets:2,15,91,86
+裙子_Elim r
+bounds:2,1477,272,134
+offsets:0,0,272,136
+rotate:180
+貓掌_Elim r
+bounds:1964,1578,82,149
+offsets:0,0,87,149
+貓耳右 耳前_Elim r
+bounds:898,1368,183,125
+offsets:217,79,400,204
+rotate:180
+貓耳右 耳後_Elim r
+bounds:257,1527,218,235
+rotate:90
+貓耳右耳內_Elim r
+bounds:1059,1328,94,123
+offsets:0,0,112,123
+rotate:90
+貓裝飾_Elim r
+bounds:1620,1305,67,57
+offsets:1,0,69,57
+貓裝飾線_Elim r
+bounds:2027,1740,19,66
+offsets:2,0,27,66
+鞋後 右_Elim r
+bounds:2,1855,40,41
+offsets:1,1,41,43
+鞋後 左_Elim r
+bounds:776,1807,35,46
+offsets:0,0,36,46
+頭_Elim r
+bounds:1457,1694,391,352
+rotate:180
+馬尾右 主長_Elim r
+bounds:821,1623,222,594
+offsets:59,0,281,594
+rotate:90
+馬尾右 髮1_Elim r
+bounds:1364,1614,83,111
+馬尾右 髮2_Elim r
+bounds:1840,1781,66,188
+offsets:0,1,66,189
+rotate:180
+馬尾右 髮3_Elim r
+bounds:378,1361,95,221
+rotate:90
+馬尾右 髮4_Elim r
+bounds:328,1760,120,188
+offsets:37,0,162,189
+rotate:90
+馬尾左 主長 2_Elim r
+bounds:1394,1531,220,561
+offsets:0,0,257,567
+rotate:90
+馬尾左 髮1_Elim r
+bounds:739,1964,82,116
+offsets:0,0,244,232
+rotate:270
+馬尾左 髮2_Elim r
+bounds:46,1390,89,233
+rotate:90
+馬尾左 髮3_Elim r
+bounds:174,1356,71,186
+offsets:0,1,71,188
+rotate:90
+馬尾左 髮4_Elim r
+bounds:1836,1401,154,186
+rotate:270

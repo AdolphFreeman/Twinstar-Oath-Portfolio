@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 6646ea116ca5d1742b269e3349211303
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6816856796481806526
+    second: Fujiali_0
+  - first:
+      213: 8449365863810581734
+    second: Fujiali_1
+  - first:
+      213: 1338492048465343804
+    second: Fujiali_2
+  - first:
+      213: -3717711587495095822
+    second: Fujiali_3
+  - first:
+      213: -6392679898842477995
+    second: Fujiali_4
+  - first:
+      213: 3156295335540289319
+    second: Fujiali_5
+  - first:
+      213: 6242286904666894148
+    second: Fujiali_6
+  - first:
+      213: 5234480561450821358
+    second: Fujiali_7
+  - first:
+      213: 2328750380829617280
+    second: Fujiali_8
+  - first:
+      213: 1305099227549355762
+    second: Fujiali_9
+  - first:
+      213: 6748228107673661877
+    second: Fujiali_10
+  - first:
+      213: -7978698877893585946
+    second: Fujiali_11
+  - first:
+      213: 6100893175843729305
+    second: Fujiali_12
+  - first:
+      213: 4626934546067048138
+    second: Fujiali_13
+  - first:
+      213: -1779956555310737571
+    second: Fujiali_14
+  - first:
+      213: -1117849355589839570
+    second: Fujiali_15
+  - first:
+      213: 5306226744431557556
+    second: Fujiali_16
+  - first:
+      213: -8140567133525311770
+    second: Fujiali_17
+  - first:
+      213: -2834938076219308338
+    second: Fujiali_18
+  - first:
+      213: 7188780500593539745
+    second: Fujiali_19
+  - first:
+      213: 8837881212841011523
+    second: Fujiali_20
+  - first:
+      213: 1403645028075329651
+    second: Fujiali_21
+  - first:
+      213: 181044766487842727
+    second: Fujiali_22
+  - first:
+      213: -4846629968850845504
+    second: Fujiali_23
+  - first:
+      213: 1198956024923932716
+    second: Fujiali_24
+  - first:
+      213: -196360382741045795
+    second: Fujiali_25
+  - first:
+      213: 6041270596937629560
+    second: Fujiali_26
+  - first:
+      213: 2552913980093130745
+    second: Fujiali_27
+  - first:
+      213: 3469949624010435288
+    second: Fujiali_28
+  - first:
+      213: 4475815387089674733
+    second: Fujiali_29
+  - first:
+      213: 8673058442682885397
+    second: Fujiali_30
+  - first:
+      213: -8050273423367177798
+    second: Fujiali_31
+  - first:
+      213: -6532208895339835442
+    second: Fujiali_32
+  - first:
+      213: -5959349910986042370
+    second: Fujiali_33
+  - first:
+      213: -3868665344765393966
+    second: Fujiali_34
+  - first:
+      213: -7666991339202989145
+    second: Fujiali_35
+  - first:
+      213: -5381132670220326517
+    second: Fujiali_36
+  - first:
+      213: -851233550206382990
+    second: Fujiali_37
+  - first:
+      213: 4072615525748716985
+    second: Fujiali_38
+  - first:
+      213: -7445161731584242238
+    second: Fujiali_39
+  - first:
+      213: -1710386827542548260
+    second: Fujiali_40
+  - first:
+      213: 3430418059434905207
+    second: Fujiali_41
+  - first:
+      213: 3913781475433603244
+    second: Fujiali_42
+  - first:
+      213: 2248922462919308073
+    second: Fujiali_43
+  - first:
+      213: -2589305973386997263
+    second: Fujiali_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fujiali_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 493
+        width: 147
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f9ef06cd8a561a0800000000000000
+      internalID: -6816856796481806526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 612
+        width: 102
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4cdb98c7d224570800000000000000
+      internalID: 8449365863810581734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 544
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35367b2d67439210800000000000000
+      internalID: 1338492048465343804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 495
+        width: 230
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1500a2209086cc0800000000000000
+      internalID: -3717711587495095822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_4
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 585
+        width: 157
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ac6ba7083a847a0800000000000000
+      internalID: -6392679898842477995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 530
+        width: 207
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe91982e96dcb20800000000000000
+      internalID: 3156295335540289319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 592
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f2eb2edde01a650800000000000000
+      internalID: 6242286904666894148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 121
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6a6f0565c94a840800000000000000
+      internalID: 5234480561450821358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_8
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 592
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ca7e31222615020800000000000000
+      internalID: 2328750380829617280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_9
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 560
+        width: 167
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe47be25d4ac1210800000000000000
+      internalID: 1305099227549355762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_10
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 613
+        width: 110
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1f135d5b586ad50800000000000000
+      internalID: 6748228107673661877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_11
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 549
+        width: 196
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3585db4a7f54190800000000000000
+      internalID: -7978698877893585946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_12
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 520
+        width: 104
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f25cef40abaa450800000000000000
+      internalID: 6100893175843729305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_13
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 601
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac64f41847c263040800000000000000
+      internalID: 4626934546067048138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_14
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 583
+        width: 138
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57531d81f25c47e0800000000000000
+      internalID: -1779956555310737571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 437
+        width: 146
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e251ba70fe99c70f0800000000000000
+      internalID: -1117849355589839570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 462
+        width: 267
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb35874c1183a940800000000000000
+      internalID: 5306226744431557556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_17
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 416
+        width: 289
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eef0089255e60f80800000000000000
+      internalID: -8140567133525311770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_18
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 352
+        width: 428
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec608bef6d648a8d0800000000000000
+      internalID: -2834938076219308338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_19
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 489
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaf12a07cda3c360800000000000000
+      internalID: 7188780500593539745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_20
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 511
+        width: 124
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349ac72532676aa70800000000000000
+      internalID: 8837881212841011523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_21
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 416
+        width: 221
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3785c2957bfba7310800000000000000
+      internalID: 1403645028075329651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_22
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 360
+        width: 206
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af83f28143338200800000000000000
+      internalID: 181044766487842727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_23
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 304
+        width: 233
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c002ecc8bf4dbcb0800000000000000
+      internalID: -4846629968850845504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_24
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 477
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28c7eef62c83a010800000000000000
+      internalID: 1198956024923932716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_25
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 409
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd92c2b543664df0800000000000000
+      internalID: -196360382741045795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 402
+        width: 85
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fba729997e6d350800000000000000
+      internalID: 6041270596937629560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 13
+        width: 595
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7649d2db5cd6320800000000000000
+      internalID: 2552913980093130745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_28
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 323
+        width: 241
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da64a76cccb72030800000000000000
+      internalID: 3469949624010435288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_29
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 4
+        width: 330
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de125b3716a4d1e30800000000000000
+      internalID: 4475815387089674733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_30
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 4
+        width: 295
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515e058a3b4ec5870800000000000000
+      internalID: 8673058442682885397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_31
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 135
+        width: 241
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab97e6f39fea74090800000000000000
+      internalID: -8050273423367177798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_32
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 5
+        width: 336
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf4f9a6e9ee855a0800000000000000
+      internalID: -6532208895339835442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_33
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 349
+        width: 106
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3db6774d22c4da0800000000000000
+      internalID: -5959349910986042370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_34
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 186
+        width: 65
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d30562bd5dbf4ac0800000000000000
+      internalID: -3868665344765393966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 286
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a33fca9fff599590800000000000000
+      internalID: -7666991339202989145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_36
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 4
+        width: 330
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a44ec8506255b0800000000000000
+      internalID: -5381132670220326517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 170
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ccd0b989fcf24f0800000000000000
+      internalID: -851233550206382990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_38
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4
+        width: 96
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b53ef63e36d48830800000000000000
+      internalID: 4072615525748716985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_39
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 4
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdc69de9d87da890800000000000000
+      internalID: -7445161731584242238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_40
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 4
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0b1db0e3c7348e0800000000000000
+      internalID: -1710386827542548260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_41
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 4
+        width: 194
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ec3b7cc0b4b9f20800000000000000
+      internalID: 3430418059434905207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_42
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 52
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca069bb048b805630800000000000000
+      internalID: 3913781475433603244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_43
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 4
+        width: 223
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923b3b19017c53f10800000000000000
+      internalID: 2248922462919308073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fujiali_44
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 4
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f198799fefe01cd0800000000000000
+      internalID: -2589305973386997263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fujiali_0: -6816856796481806526
+      Fujiali_1: 8449365863810581734
+      Fujiali_10: 6748228107673661877
+      Fujiali_11: -7978698877893585946
+      Fujiali_12: 6100893175843729305
+      Fujiali_13: 4626934546067048138
+      Fujiali_14: -1779956555310737571
+      Fujiali_15: -1117849355589839570
+      Fujiali_16: 5306226744431557556
+      Fujiali_17: -8140567133525311770
+      Fujiali_18: -2834938076219308338
+      Fujiali_19: 7188780500593539745
+      Fujiali_2: 1338492048465343804
+      Fujiali_20: 8837881212841011523
+      Fujiali_21: 1403645028075329651
+      Fujiali_22: 181044766487842727
+      Fujiali_23: -4846629968850845504
+      Fujiali_24: 1198956024923932716
+      Fujiali_25: -196360382741045795
+      Fujiali_26: 6041270596937629560
+      Fujiali_27: 2552913980093130745
+      Fujiali_28: 3469949624010435288
+      Fujiali_29: 4475815387089674733
+      Fujiali_3: -3717711587495095822
+      Fujiali_30: 8673058442682885397
+      Fujiali_31: -8050273423367177798
+      Fujiali_32: -6532208895339835442
+      Fujiali_33: -5959349910986042370
+      Fujiali_34: -3868665344765393966
+      Fujiali_35: -7666991339202989145
+      Fujiali_36: -5381132670220326517
+      Fujiali_37: -851233550206382990
+      Fujiali_38: 4072615525748716985
+      Fujiali_39: -7445161731584242238
+      Fujiali_4: -6392679898842477995
+      Fujiali_40: -1710386827542548260
+      Fujiali_41: 3430418059434905207
+      Fujiali_42: 3913781475433603244
+      Fujiali_43: 2248922462919308073
+      Fujiali_44: -2589305973386997263
+      Fujiali_5: 3156295335540289319
+      Fujiali_6: 6242286904666894148
+      Fujiali_7: 5234480561450821358
+      Fujiali_8: 2328750380829617280
+      Fujiali_9: 1305099227549355762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
